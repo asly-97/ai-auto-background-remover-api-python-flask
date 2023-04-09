@@ -27,8 +27,8 @@ How to test the API with Postman:
 
 Once the Flask API processes the image and returns the response, you can check the returned processed image by clicking on the "Body" tab and viewing the processed_image.
 
-Image: 
+Original Image: 
 ![alt text](original_image.jpg "Original image")
 
-Segmented image: 
+Processed image: 
 ![alt text](/processed_image.png "Processed image")
